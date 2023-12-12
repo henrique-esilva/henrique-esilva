@@ -2,7 +2,7 @@
 
 Tenho 23 anos, gosto de aprender e usar diferentes linguagens de programação, sou autodiata e pretendo me tornar desenvolvedor de software.
 
-Formação
+#### Formação
 * Técnico em Informática pela Firjan Senai
 * Análise de Dados (cursando)
 
