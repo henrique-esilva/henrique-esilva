@@ -1,6 +1,6 @@
 ### Olá, sou o Henrique 👋
 
-Gosto de aprender diferentes linguagens de programação e desenvolver soluções para automatizar problemas simples. Acredito que a constância na aquisição de competências é mais importante que a qualidade.
+Tenho 23 anos, gosto de aprender e usar diferentes linguagens de programação, sou autodiata e pretendo me tornar desenvolvedor de software.
 
 Formação
 * Técnico em Informática pela Firjan Senai
