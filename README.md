@@ -1,12 +1,15 @@
-### Henrique Silva 👋
 
-Olá! Sou o Henrique, Tenho 23 anos, adoro programação, filosofia, desenho à mão e games. Sou autodiata e pretendo me tornar desenvolvedor back-end.
+# Henrique Silva 👋
 
-#### Formação
+Olá! Sou o Henrique, Tenho 23 anos, moro no Rio de Janeiro. Gosto de programação, filosofia, desenho à mão e games. Sou autodiata e pretendo me tornar um desenvolvedor back-end.
+
+## Formação
+
 * Técnico em Informática pela Firjan Senai
 * Análise de Dados (cursando)
 
-#### Competências
+## Competências
+
 * Python
 * Programação orientada a objetos
 * Conhecimento sobre design patterns
