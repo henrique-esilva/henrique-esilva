@@ -4,7 +4,7 @@
 Olá! Sou o Henrique, Tenho 23 anos, moro no Rio de Janeiro. Gosto de programação, filosofia, desenho à mão e games. Sou autodiata e pretendo me tornar um desenvolvedor back-end.
 
 Atualmente trabalho em um game de computador chamado jump-tales.
-<img src="./murasaki_andando.gif" width=200>
+<img src="./murasaki_andando1_transparente.gif" width=200>
 
 ## Formação
 
