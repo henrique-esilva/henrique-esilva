@@ -3,8 +3,9 @@
 
 Olá! Sou o Henrique, Tenho 23 anos, moro no Rio de Janeiro. Gosto de programação, filosofia, desenho à mão e games. Sou autodiata e pretendo me tornar um desenvolvedor back-end.
 
-Atualmente trabalho em um game de computador chamado jump-tales.
-<img src="./murasaki_andando1_transparente.gif" width=200>
+Atualmente trabalho em um game de computador chamado jump-tales. Ainda incompleto, que pode ser baixado [aqui](https://henrique-esilva.itch.io/jump-tales).
+
+<div><img autoplay alt="meu personagem" src="./murasaki_andando1_transparente.gif" width=200></div>
 
 ## Formação
 
