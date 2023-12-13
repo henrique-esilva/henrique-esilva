@@ -1,6 +1,6 @@
-### Olá, sou o Henrique 👋
+### Henrique Silva 👋
 
-Tenho 23 anos, gosto de aprender e usar diferentes linguagens de programação, sou autodiata e pretendo me tornar desenvolvedor de software.
+Olá! Sou o Henrique, Tenho 23 anos, adoro programação, filosofia, desenho à mão e games. Sou autodiata e pretendo me tornar desenvolvedor back-end.
 
 #### Formação
 * Técnico em Informática pela Firjan Senai
