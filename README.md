@@ -7,8 +7,8 @@ Atualmente trabalho em um game de computador chamado jump-tales.
 
 ## Formação
 
-* Técnico em Informática pela Firjan Senai
-* Análise de Dados (cursando)
+* Técnico em Informática - Firjan Senai
+* Análise de Dados - SENAC (cursando)
 
 ## Competências
 
