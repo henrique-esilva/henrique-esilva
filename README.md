@@ -14,6 +14,9 @@ Atualmente trabalho em um game de computador chamado jump-tales. Ainda incomplet
 
 ## Competências
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=90 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" width=90 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width=90 />
+
+<!--
 * Python
 * Programação orientada a objetos
 * Conhecimento sobre design patterns
@@ -23,6 +26,7 @@ Atualmente trabalho em um game de computador chamado jump-tales. Ainda incomplet
 * HTML5
 * MySQL Workbench
 * Banco de dados relacional
+!-->
 
 <div>
 <a href="https://henrique-esilva.itch.io" target="_blank"><img loading="lazy" src="./logo-white-new.svg" target="_blank" width=100></a>
@@ -34,18 +38,4 @@ Atualmente trabalho em um game de computador chamado jump-tales. Ainda incomplet
 </div>
 
 <!--
-https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github
-**henrique-esilva/henrique-esilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-!-->
+https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github !-->
