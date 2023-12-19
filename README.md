@@ -27,10 +27,12 @@ Olá! Sou o Henrique, Tenho 23 anos, moro no Rio de Janeiro. Gosto de programaç
 Pode conferir alguns projetos pessoais no itch.io
 
 <div>
-<a href="https://henrique-esilva.itch.io" target="_blank"><img loading="lazy" src="./logo-white-new.svg" target="_blank" width=100></a>
+<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-itch.io-FF1726?style=for-the-badge" target="_blank"></a>
 </div>
 
-<!-- <a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-itch.io-FF1726?style=for-the-badge" target="_blank"></a>
+<!--
+<a href="https://henrique-esilva.itch.io" target="_blank"><img loading="lazy" src="./itchdotio.svg" target="_blank" width=50></a>
+<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-itch.io-FF1726?style=for-the-badge" target="_blank"></a>
 <a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <a href = "mailto:contato@seu-usuário-aqui"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
