@@ -15,7 +15,8 @@ Olá! Sou o Henrique, Tenho 23 anos, moro no Rio de Janeiro. Gosto de programaç
 Pode conferir alguns projetos pessoais no itch.io
 
 <div>
-<a href="https://henrique-esilva.itch.io" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-itch.io-FF1726?style=for-the-badge" target="_blank"></a>
+<a href="https://henrique-esilva.itch.io" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-itch.io-FF1726?style=for-the-badge" target="_blank"></a>  
+<a href="https://www.linkedin.com/in/pedro-henrique-silva-683007215?utm_source=share" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Linkedin-1167fa?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 <!--
