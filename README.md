@@ -12,7 +12,7 @@ Olá! Sou o Henrique, Tenho 23 anos, moro no Rio de Janeiro. Gosto de programaç
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=60 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" width=60 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width=60 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width=60 />
 
-Pode conferir alguns projetos pessoais no itch.io
+## Encontre-me
 
 <div>
 <a href="https://henrique-esilva.itch.io" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-itch.io-FF1726?style=for-the-badge" target="_blank"></a>  
