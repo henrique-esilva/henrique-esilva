@@ -1,4 +1,3 @@
-
 # Henrique Silva 👋
 
 Olá! Sou o Henrique, Tenho 23 anos, moro no Rio de Janeiro. Gosto de programação, desenho à mão e games. Atualmente curso Análise de Dados pela Resilia Educação em parceria com o Senac e pretendo me tornar um desenvolvedor back-end.
@@ -15,11 +14,13 @@ Olá! Sou o Henrique, Tenho 23 anos, moro no Rio de Janeiro. Gosto de programaç
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width=60 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width=60 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=60 />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=60 />
 </div>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=60 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width=60 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width=60 />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width=60 />
 </div>
 
 ## Encontre-me
