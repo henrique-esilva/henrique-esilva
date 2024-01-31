@@ -1,6 +1,9 @@
 # Henrique Silva 👋
 
-Olá! Sou o Henrique, Tenho 23 anos, moro no Rio de Janeiro. Gosto de programação, desenho à mão e games. Atualmente curso Análise de Dados pela Resilia Educação em parceria com o Senac e pretendo me tornar um desenvolvedor back-end.
+Olá! Sou o Henrique, Tenho 23 anos, moro no Rio de Janeiro  
+Gosto de tecnologia, desenho à mão e games. Atualmente curso Análise de Dados pela Resilia Educação em parceria com o Senac e pretendo me tornar um desenvolvedor back-end.
+
+Acredito que o caminho é mais importante que o destino, e mais importante que o caminho é como ele nos transforma.
 
 ## Formação
 
