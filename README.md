@@ -1,6 +1,5 @@
-# Henrique Silva 👋
+# Henrique | 23 anos | RJ - Brasil
 
-Oi. Henrique | 23 anos | RJ - Brasil
 Gosto de tecnologia, desenho à mão e games. Atualmente curso Análise de Dados pela Resilia Educação em parceria com o Senac e pretendo me tornar um desenvolvedor back-end.
 
 ## Formação
