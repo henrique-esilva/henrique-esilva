@@ -4,7 +4,7 @@ Gosto de tecnologia, desenho à mão e games. Pretendo me tornar um desenvolvedo
 
 ## Formação
 
-* Análise de Dados - Resilia & Senac (cursando)
+* Análise de Dados - Resilia & Senac
 * Técnico em Informática - Firjan Senai
 
 ## Competências
