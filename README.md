@@ -23,6 +23,7 @@ Gosto de tecnologia, desenho à mão e games. Atualmente curso Análise de Dados
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width=60 />
 </div>
 
+<!--
 ## Encontre-me
 
 <div>
@@ -30,7 +31,6 @@ Gosto de tecnologia, desenho à mão e games. Atualmente curso Análise de Dados
 <a href="https://www.linkedin.com/in/pedro-henrique-silva-683007215?utm_source=share" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Linkedin-1167fa?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-<!--
 <a href="https://henrique-esilva.itch.io" target="_blank"><img loading="lazy" src="./itchdotio.svg" target="_blank" width=50></a>
 <a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-itch.io-FF1726?style=for-the-badge" target="_blank"></a>
 <a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
