@@ -1,6 +1,6 @@
 # Henrique | RJ - Brasil
 
-Gosto de tecnologia, desenho à mão e games. Atualmente curso Análise de Dados pela Resilia Educação em parceria com o Senac e pretendo me tornar um desenvolvedor back-end.
+Gosto de tecnologia, desenho à mão e games. Pretendo me tornar um desenvolvedor back-end.
 
 ## Formação
 
