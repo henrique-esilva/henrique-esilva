@@ -4,6 +4,10 @@ Sou um entusiasta da tecnologia dedicando meu tempo ao estudo e prática de novo
 
 ## Competências
 
+.Git com repositórios remotos e chaves SSH  
+Python (jupyter, numpy, matplotlib, pandas)  
+HTML & CSS (básico)  
+
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"  width=60 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width=60 />
@@ -17,6 +21,19 @@ Sou um entusiasta da tecnologia dedicando meu tempo ao estudo e prática de novo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width=60 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width=60 />
 </div>
+
+## Conhecimentos
+
+Ampla familiaridade com lógica de programação  
+Programação procedural  
+OOP  
+Estruturas de dados  
+
+## Estudando atualmente
+
+* Node.js / JavaScript
+* WebSockets
+* ...e em breve Express
 
 ## Formação
 
