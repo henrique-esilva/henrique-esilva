@@ -1,11 +1,6 @@
 # Pedro Henrique Ferreira | Brasil
 
-Sou um entusiasta da tecnologia dedicando meu tempo ao estudo e prática de novos conhecimentos, buscando constante evolução. Possuo um interesse particular por desenvolvimento web e de jogos.
-
-## Formação
-
-* Análise de Dados - Resilia & Senac
-* Técnico em Informática - Firjan Senai
+Sou um entusiasta da tecnologia dedicando meu tempo ao estudo e prática de novos conhecimentos, buscando constante evolução. Possuo um interesse particular por desenvolvimento web e de jogos. Estou ansioso para agregar valor com o que aprendi.
 
 ## Competências
 
@@ -22,6 +17,11 @@ Sou um entusiasta da tecnologia dedicando meu tempo ao estudo e prática de novo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width=60 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width=60 />
 </div>
+
+## Formação
+
+* Análise de Dados - Resilia & Senac
+* Técnico em Informática - Firjan Senai
 
 <!--
 ## Encontre-me
