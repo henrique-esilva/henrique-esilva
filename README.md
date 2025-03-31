@@ -1,6 +1,6 @@
-# Henrique | RJ - Brasil
+# Pedro Henrique Ferreira | Brasil
 
-Gosto de tecnologia, desenho à mão e games. Pretendo me tornar um desenvolvedor back-end.
+Sou um entusiasta da tecnologia dedicando meu tempo ao estudo e prática de novos conhecimentos, buscando constante evolução. Possuo um interesse particular por desenvolvimento web e de jogos.
 
 ## Formação
 
@@ -38,6 +38,3 @@ Gosto de tecnologia, desenho à mão e games. Pretendo me tornar um desenvolvedo
 <a href = "mailto:contato@seu-usuário-aqui"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
-<!--
-https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github !-->
